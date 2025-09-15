@@ -1,10 +1,10 @@
-# Submission Code (Fake-News XAI)
+# Submission Bundle (Fake-News XAI)
 
 This folder contains the code and light artifacts to reproduce results and run the Streamlit demo.
 
 ## Structure
 ~~~
-submission_code/
+submission_Bundle/
   README.md
   requirements.txt
   streamlit_app.py
